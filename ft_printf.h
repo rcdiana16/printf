@@ -6,14 +6,13 @@
 /*   By: diana <diana@student.42.fr>                +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2024/10/22 17:38:47 by diana             #+#    #+#             */
-/*   Updated: 2024/10/30 17:25:47 by diana            ###   ########.fr       */
+/*   Updated: 2024/11/08 08:07:29 by diana            ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
 #ifndef FT_PRINTF_H
 # define FT_PRINTF_H
 
-# include <stdio.h>
 # include <unistd.h>
 # include <stdarg.h>
 
